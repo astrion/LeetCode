@@ -1,2 +1,2 @@
 # LeetCode
-LeetCode Solved Issues
+This is a repository to store Leet Code solutions I made.
